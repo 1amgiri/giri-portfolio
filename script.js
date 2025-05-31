@@ -1,4 +1,4 @@
-const roles = ["Developer", "Programmer", "Data Engineering Enthusiast"];
+const roles = ["Developer", "Programmer", "Aspiring Data Engineering"];
 let currentRole = 0;
 let charIndex = 0;
 let typing = true;
