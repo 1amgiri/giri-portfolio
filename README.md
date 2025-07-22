@@ -13,7 +13,7 @@ This is my personal portfolio website created using HTML, CSS, Javascript. It hi
 - Javascript
 
 ## Live Preview
-https://1amgiri.github.io/github-portfolio/
+https://1amgiri.github.io/giri-portfolio/
 
 
 
